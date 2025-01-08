@@ -9,3 +9,4 @@ card_index= 0
 *Change the card_index only if you have multiple cards*
 
 The usage_data.json contains the parsed data from wmata and is cached for subsequent runs of the script. 
+You can also change the start_date, end_date in the script as per your need.
